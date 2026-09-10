@@ -272,3 +272,6 @@ This repository serves as the official landing page for Metal Slug: Awakening. T
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Metal Slug: Awakening today!**
+
+---
+**Last updated:** 2026-09-10 14:02:15 UTC
