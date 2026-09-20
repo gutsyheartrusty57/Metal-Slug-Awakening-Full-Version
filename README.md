@@ -274,4 +274,4 @@ This repository serves as the official landing page for Metal Slug: Awakening. T
 **Get the most recent version of Metal Slug: Awakening today!**
 
 ---
-**Last updated:** 2026-09-20 13:54:47 UTC
+**Last updated:** 2026-09-20 17:16:17 UTC
